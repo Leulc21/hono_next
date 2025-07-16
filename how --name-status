@@ -1,0 +1,21 @@
+[33mcommit 7142193502472ed2c4e28e71a8cf06c6a5d67410[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Leulc21 <leulchanie576@gmail.com>
+Date:   Mon Jul 14 22:06:09 2025 +0300
+
+    Initial commit
+
+A	client
+A	server/.env
+A	server/.gitignore
+A	server/README.md
+A	server/bun.lock
+A	server/package.json
+A	server/prisma/dev.db
+A	server/prisma/migrations/20250713133010_add_todo/migration.sql
+A	server/prisma/migrations/migration_lock.toml
+A	server/prisma/schema.prisma
+A	server/src/controllers/todoController.ts
+A	server/src/index.ts
+A	server/src/routes/todoRoutes.ts
+A	server/src/utils/prismaClient.ts
+A	server/tsconfig.json
